@@ -1,5 +1,5 @@
 # Achievo: Elevate Your Work with Progress Visualization and Gamification
-
+[![wakatime](https://wakatime.com/badge/user/04c60a11-7fcd-4d1d-accf-a4bb74ceedec/project/29036393-1273-437f-a42a-098225082a42.svg)](https://wakatime.com/badge/user/04c60a11-7fcd-4d1d-accf-a4bb74ceedec/project/29036393-1273-437f-a42a-098225082a42)
 **In the modern world of productivity and task management, the key to success often lies in how efficiently we can manage our work and stay motivated. Achievo is here to revolutionize this experience. Imagine a world where work doesn't feel like a chore but a thrilling adventure. Achievo is your passport to this world.**
 
 **Achievo is more than just another task management tool; it's a comprehensive solution that seamlessly integrates progress visualization and gamification into your work routine. Designed with a Python backbone, Achievo empowers individuals and teams to achieve their goals while enjoying every step of the journey.**
